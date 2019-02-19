@@ -1,6 +1,18 @@
-
+# OUT AUX LOG files
 *.aux
 *.out
 *.log
 *.gz
 *.gz*
+
+
+## andrewg:
+
+# old files
+andrewg/_old/
+
+
+# _other
+argletter.pdf
+LOR.tex
+TSLA.tex
