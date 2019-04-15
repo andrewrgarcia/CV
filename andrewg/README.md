@@ -6,7 +6,7 @@ Download **argres.pdf** file for resume with links
 **Resume**
 
 
-<a href="https://github.com/andrewrgarcia/CV/blob/master/andrewg/argres.pdf"><img src="developer_console.png" alt="drawing" width="400"/>
+<a href="https://github.com/andrewrgarcia/CV/blob/master/andrewg/argres.pdf"><img src="developer_console.png" alt="drawing" width="1000"/>
 
 **Resume Developer console (Atom)**
 
