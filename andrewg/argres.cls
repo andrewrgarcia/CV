@@ -26,7 +26,7 @@ bottom=15mm,
 \phone[mobile]{+1~(786)~ooo~oooo} % optional, remove / comment the line if not wanted
 \email{ ooooo -AT- ufl.edu} % optional, remove / comment the line if not wanted
 
-\social[github][www.github.com/andrewrgarcia/CV/tree/master/andrewg]{\textbf{www.github.com/andrewrgarcia/CV/andrewg}}
+\social[github][www.github.com/andrewrgarcia/CV/tree/master/andrewg]{\textbf{www.github.com/andrewrgarcia/CV/.../andrewg}}
 
 % {interactive resume-> \newline  \textbf{click here} or go to: \newline
 %  \newline www.github.com/andrew r garcia/CV/andrewg}
