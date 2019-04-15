@@ -1,5 +1,5 @@
-# Andrew Garcia Resume
-## Download **-argres.pdf-** file for resume with links ["hyperlinks"]
+## Andrew Garcia Resume
+Download **argres.pdf** file for resume with links
 
 <img src="Figure.png" alt="drawing" width="1900"/>
 
